@@ -1,0 +1,11 @@
+# Never commit credentials
+secrets.h
+
+# Generated blocklist (rebuild with tools/build_blocklist.py)
+*.bin
+
+# Build output / editor files
+build/
+.vscode/
+.idea/
+__pycache__/
